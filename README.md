@@ -1,6 +1,6 @@
 # Twitterbot :bird:
 
-Using twitter API to 
+Use twitter API to 
 
 > Tweet from your command line <br>
 > Automatically follow accounts based on hashtags <br>
